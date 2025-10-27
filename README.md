@@ -1,7 +1,7 @@
 # Assignment1-evolution-of-Artificial-Intelligence-quater-4
  Explore the evolution of AI from 1950s theory to modern models like ChatGPT &amp; Gemini. Includes timelines, breakthroughs, resources, tools, infographics &amp; code showing the shift from rule-based systems to ML, DL &amp; LLMs.
- 
-<img width="1536" height="1024" alt="ChatGPT Image Oct 24, 2025, 09_22_06 PM" src="https://github.com/user-attachments/assets/ffb46efa-1861-48dc-a2ba-eb0bd6653b5c" />
+ <img width="1024" height="1024" alt="Gemini_Generated_Image_y1sx8vy1sx8vy1sx" src="https://github.com/user-attachments/assets/b4d71828-786f-4f87-8827-db61207580d0" />
+
 
 # The Odyssey of Intelligence — History of AI
 <img width="912" height="660" alt="_- visual selection" src="https://github.com/user-attachments/assets/0367fbe7-ea64-4785-9fe8-66d6bf979a18" />
