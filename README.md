@@ -4,9 +4,7 @@
 <img width="1536" height="1024" alt="ChatGPT Image Oct 24, 2025, 09_22_06 PM" src="https://github.com/user-attachments/assets/ffb46efa-1861-48dc-a2ba-eb0bd6653b5c" />
 
 # The Odyssey of Intelligence — History of AI
-![License: MIT](https://img.shields.io/badge/License-MIT-blue)
-<img width="1024" height="1024" alt="Gemini_Generated_Image_y1sx8vy1sx8vy1sx" src="https://github.com/user-attachments/assets/e0facb15-77e7-4551-99aa-a25b160100f9" />
-
+<img width="912" height="660" alt="_- visual selection" src="https://github.com/user-attachments/assets/0367fbe7-ea64-4785-9fe8-66d6bf979a18" />
 
 **Presentation / Showcase** — A polished, slide-style presentation about the history and evolution of Artificial Intelligence, from early symbolic AI to modern Agentic AI. Created for class/hackathon submission.
 
@@ -15,8 +13,7 @@
 ## Project Summary
 This repository contains a presentation-style PDF and PowerPoint files that explain the historical development of AI, major breakthroughs (including Deep Learning and Transformers), Large Language Models (LLMs), and the Agentic AI era. The presentation is designed to be easy to explain in class and includes speaker tips and labeled diagrams.
 
-**Author:** Vandana Chohan  
-**Roll No:** 00304612  
+**Author:** Vandana Chohan   
 **Institute:** Governor Sindh Initiative – IT Program
 
 ---
@@ -26,7 +23,7 @@ This repository contains a presentation-style PDF and PowerPoint files that expl
 - `History_of_AI_Showcase_VandanaChohan.pdf` — Presentation-style PDF (slide layout, ready to submit).
 - `assets/` — (optional) folder for diagrams, images, icons used in the presentation.
 - `README.md` — This file.
-- `LICENSE` — (optional) project license (recommended: MIT).
+
 
 ---
 
